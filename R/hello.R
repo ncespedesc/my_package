@@ -20,5 +20,5 @@
 #'
 #' @examples hello()
 hello <- function() {
-  print("Hello, world!")
+  print("que se narra la mojarra!")
 }
