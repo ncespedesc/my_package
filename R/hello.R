@@ -5,7 +5,7 @@
 #'
 #' @examples hello()
 hello <- function(){
-  print("que se narra la mojarra")
+  print("que se narra la mojarra!!")
 }
 
 
