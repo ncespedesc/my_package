@@ -2,15 +2,15 @@
 % Please edit documentation in R/hello.R
 \name{hello}
 \alias{hello}
-\title{print my first function}
+\title{official gretting of the lab}
 \usage{
 hello()
 }
 \value{
-
+just print
 }
 \description{
-print my first function
+describes  what you have to say hello in the mornings
 }
 \examples{
 hello()
