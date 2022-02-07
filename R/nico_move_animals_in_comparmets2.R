@@ -1,6 +1,3 @@
-
-
-
 #' @title Move animals among compartments
 #' @description this function move the cattle pig and small ruminand ccording with the day and  SEIR compartment
 #' @param movements dataframe with the movements

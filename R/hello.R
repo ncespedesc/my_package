@@ -7,6 +7,3 @@
 hello <- function(){
   print("que se narra la mojarra!!")
 }
-
-
-hello()
